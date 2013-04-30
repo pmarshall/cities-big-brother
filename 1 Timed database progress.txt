@@ -1,0 +1,56 @@
+Key:
+T: has no timestamp
+K: has no primary key
+D: has no timestamp-flexible display method (i.e., "gimme data for the last 30 days")
+
+armor_break TKD
+angry_upgrade TKD
+astral_plain TKD
+ballroom TKD
+beanstalk TKD
+bowling	TKD
+condor_location	
+contributors TKD, but see data_score
+cornucopia_drink TKD
+cornucopia_food	TKD
+custom_weapon_break TKD	
+daemonic_melt TKD
+data_score 
+death TKD
+fairy TKD
+farming	TKD
+fishing	TD
+flashgun KD
+flying_healer TKD
+foraging TKD
+gathering_count	TKD (can be replaced by timed wood-gathering table?)
+harvest_song KD
+harvey_dig TKD
+milking	TKD
+mine_duration KD
+mining	TKD
+monster_accuracy TKD
+monster_drop	
+monster_drop_timed	D
+monster_kills	
+monster_kills_timed	D (arguably obsolete: just count SUM(numRepeats) for the 'different items' column in monster_drop_times)
+move_break TKD
+northern_rock KD
+player_theft KD
+poison	TKD
+rainbow_wand TKD
+sand_count TKD (can be replaced by timed sand-gathering table?)
+sand_gathering	TKD
+seal_kudo_loss	TKD
+searching	TKD
+silver_vs_dragon	TKD
+summon_stone	KD
+thief_action	TKD
+tunnel_mining	TKD
+validation	TKD (also duplicated by data_score to some extent)
+vorpal_blade	KD
+weapon_break	TKD
+whip_grab	TKD
+wizard_spell	TKD
+wood_gathering	TKD
+wormhole KD
